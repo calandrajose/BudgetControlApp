@@ -1,4 +1,4 @@
-You can check this project [https://myweeklybudget.netlify.app](here)
+You can check this project [here](https://myweeklybudget.netlify.app)
 
 # Getting Started with Create React App
 
